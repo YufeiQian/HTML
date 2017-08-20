@@ -7,6 +7,8 @@
 3. media query: 
 `<link rel="stylesheet" media="screen and (min-width: 500px)" href="yes.css">`
 > 
-`@media screen and (min-width: 500px) {
+```
+@media screen and (min-width: 500px) {
   body { background-color: green; }
-}`
+}
+```
