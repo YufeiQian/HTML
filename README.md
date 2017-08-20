@@ -13,7 +13,7 @@
       body { background-color: green; }
     }
     ```  
-    更多条件判断式Query  
+    更多条件判断式Query  
     `@media screen and (min-width: 500px) and (max-width: 800px)"`  
 4. Avoid using "min-device-width", instead, use "min-width"  条件
 5. Breakpoints断点设置 
