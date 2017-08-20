@@ -12,4 +12,6 @@
     @media screen and (min-width: 500px) {
       body { background-color: green; }
     }
-    ```
+    ```  
+4. Avoid using "min-device-width", instead, use "min-width"  
+5. Breakpoints断点设置  
